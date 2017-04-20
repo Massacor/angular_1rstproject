@@ -1,0 +1,33 @@
+<!doctype html>
+<html ng-app="MyFirstApp">
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="my first application using Angular">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Angular JS</title>
+        <link rel="author" href="humans.txt">
+    </head>
+    <body ng-controller="usersCtrl">
+
+    	<div ng-controller="depensesCtrl">
+            <h1>Liste des utilisateurs</h1>
+    		<ul>
+    		    <li ng-repeat="user in users">
+    		    	{{user.username}}
+    		    </li>
+    		</ul>
+
+            <h1>Liste des Concernés</h1>
+            <ul>
+                <li ng-repeat="depense in depenses">{{aConcernesFinal[depense.Id]}}</li>
+            </ul>
+            <h1>Liste des payeurs</h1>
+            <ul>
+                <li ng-repeat="depenseP in depenses">{{aUsers[depenseP.Payeur]}}</li>
+            </ul>
+	    </div>
+        
+        <script src="elements/js/angular.js"></script>
+        <script src="elements/js/app.js"></script>
+    </body>
+</html>
