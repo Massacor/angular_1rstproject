@@ -2,7 +2,7 @@
 
 The first one of a long strike (I hope!)
 
-![](https://angular.io/resources/images/logos/angularjs/AngularJS-Shield.svg)
+<div style="text-align:center"><img src="https://angular.io/resources/images/logos/angularjs/AngularJS-Shield.svg" alt="angular logo"/></div>
 
 ## Where it comes from
 
