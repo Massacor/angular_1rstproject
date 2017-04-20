@@ -2,7 +2,7 @@
 
 The first one of a long strike (I hope!)
 
-
+![](https://angular.io/resources/images/logos/angularjs/AngularJS-Shield.svg)
 
 ## Where it comes from
 
@@ -20,6 +20,6 @@ The real "problem" we encounter (even if it's probably nothing for a experimente
 
 ## Ok you started, and what's next ?
 
-Well, I admit it's a not a lot, but it was enough to make me really like angular. I know it's an old and depreciated angular, so I'm going to try angular 2 (or even 4!) in a new personnal project. It's going to be a entertainment manager (movie, game, series and so on). To start with, I will focus on movies and I will use [moviedb](https://www.themoviedb.org) api. The application will run with angular 2 (at least), SASS, and I will try to give a Netflix/Flex look.  
+Well, I admit it's a not a lot, but it was enough to make me really like angular. I know it's an old and depreciated angular, so I'm going to try angular 2 (or even 4!) in a new personnal project. It's going to be a entertainment manager (movie, game, series and so on). To start with, I will focus on movies and I will use [**moviedb**](https://www.themoviedb.org) api. The application will run with angular 2 (at least), SASS, and I will try to give a Netflix/Flex look.  
 
 Thanks for reading ! 
